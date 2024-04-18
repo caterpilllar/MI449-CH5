@@ -1,1 +1,62 @@
 /* Add screen styles below */
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#i1{
+    width: 15px;
+    margin: 0;
+    padding: 0;
+}
+
+#i2{
+    width: 10px;
+    height: 12px;
+}
+
+#navbar{
+    background-color: #F06500;
+    padding: 5px;
+    margin: 0px;
+}
+
+#title{
+    font-weight: bold;
+    padding-right: 5px;
+}
+
+#log{
+    padding-left: 500px;
+}
+
+#post-area{
+    background-color: #FFFAED;
+    margin: 0px;
+}
+
+.post{
+    margin-top: 0px;
+}
+
+#post-title{
+    font-size: large;
+    color: black;
+}
+
+#post-link{
+    color: gray;
+}
+
+#post-info{
+    font-size: small;
+    color: gray;
+    margin-left: 20px;
+}
+
+p{
+    margin: 0;
+}
+
+ol{
+    color: gray;
+}
